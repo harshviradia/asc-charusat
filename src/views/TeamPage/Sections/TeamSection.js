@@ -316,7 +316,7 @@ export default function TeamSection() {
                   <i className={classes.socials + " fab fa-linkedin"} />
                 </Button>
                 <Button
-                  href="www.github.com/themaybhatti"
+                  href="https://github.com/themaybhatti"
                   target="_blank"
                   justIcon
                   color="transparent"
